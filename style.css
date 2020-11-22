@@ -1,0 +1,60 @@
+body{
+  background-color: #5f9ea0;
+  margin: 0;
+
+}
+.image{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  display: inline-block;
+  position: relative;
+  margin-left: 10px;
+}
+.one{
+  margin-left: 100px;
+}
+.hr{
+  margin-top: 10px;
+
+}
+.n{
+  color: black;
+  position: absolute;
+  display:inline-block;
+  font-family: Lucida Handwriting;
+  margin-left: 2px;
+  margin-right: 100px;
+  font-style: italic;
+}
+.button{
+  margin: 0;
+  padding: 10px;
+  border: 2px solid;
+background-color: #7cfc00;
+}
+.image1{
+  height: 130px;
+  width: 130px;
+  position: absolute;
+  right: 10px;
+  margin-top: 10px;
+  margin-right: 0;
+}
+.menu{
+  text-align: center;
+  font-family: Lucida Handwriting;
+  font-size: 20px;
+}
+.price{
+  text-align: center;
+  margin-left: 130px;
+  border: 1px solid;
+  width: 300px;
+}
+.contact-me{
+  text-align: center;
+}
+.bottom-container{
+  text-align: center;
+}
